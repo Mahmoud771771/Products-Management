@@ -1,0 +1,46 @@
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\Products Management.exe.config
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRMLogin.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products Management.csproj.GenerateResource.Cache
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\Products Management.exe
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\Products Management.pdb
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products Management.exe
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products Management.pdb
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_main.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_PRODUCT.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_PREVIEW.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\stdole.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.RPT.FRM_RPT_PROUDUCT.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_CATEGORIES.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMER.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ORDERS.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ORDER_LIST.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_USER.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_USER_LIST.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_BAKUP.resources
+C:\Users\MAHMOUD\Desktop\Products Management\Products Management\obj\Debug\Products_Management.PL.FRM_RESTORE.resources
+F:\Mahmoud 0\Projects\Products Management\Products Management\bin\Debug\Products Management.exe.config
+F:\Mahmoud 0\Projects\Products Management\Products Management\obj\Debug\Products Management.exe
+F:\Mahmoud 0\Projects\Products Management\Products Management\obj\Debug\Products Management.pdb
